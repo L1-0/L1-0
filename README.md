@@ -1,5 +1,5 @@
 
-<p align="center"><img src="https://raw.githubusercontent.com/L1-0/L1-0/main/L1-0.radialnoise.wide.jpg?raw=true" height="400px"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/L1-0/L1-0/main/L1-0.radialnoise.wide.jpg?raw=true" height="370px"></p>
 
 # **Welcome to my GitHub profile!**
 - 🔭 I'm a trainee working in cyber-security. Don't hesitate to check out my projects.
