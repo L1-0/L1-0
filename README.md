@@ -1,5 +1,10 @@
-### Hi there 👋
 
+<p align="center"><img src="https://raw.githubusercontent.com/L1-0/L1-0/main/L1-0.radialnoise.wide.jpg?raw=true" height="400px"></p>
+
+# **Welcome to my GitHub Profile!**
+- 🔭 I'm a trainee working in cyber-security. Don't hesitate to check out my projects.
+- 🌱 I’m currently learning Go as my second language besides Python.
+- ⚡ Fun fact: My profile picture is generative radial noise using this piece of code: https://020406.org/processing/pde/StrataRadial.pde
 <!--
 **L1-0/L1-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
