@@ -4,7 +4,7 @@
 # **Welcome to my GitHub profile!**
 - 🔭 I'm a trainee working in cyber-security. Don't hesitate to check out my projects.
 - 🌱 I’m currently learning Go as my second programming language besides Python.
-- ⚡ Fun fact: This banner picture is processed generative radial noise using this piece of code: https://020406.org/processing/pde/StrataRadial.pde
+- ⚡ Fun fact: This banner picture is post-processed generative radial noise, that was generated using Processing and this piece of code: https://020406.org/processing/pde/StrataRadial.pde
 <!--
 **L1-0/L1-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
