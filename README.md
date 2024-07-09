@@ -2,8 +2,8 @@
 <p align="center"><img src="https://raw.githubusercontent.com/L1-0/L1-0/main/L1-0.radialnoise.wide.jpg?raw=true" width="100%"></p>
 
 # **Welcome to my GitHub profile!**
-- 🔭 I'm a trainee working in cyber-security. Don't hesitate to check out my projects.
-- 🌱 I’m currently learning Rust as my second programming language besides Python.
+- 🔭 I'm a researcher working in offensive cyber-security. Don't hesitate to check out my projects.
+- 🌱 I’m currently getting better in Python, keep learning every day.
 - ⚡ Fun fact: This banner picture is post-processed generative radial noise, that was generated using Processing.
 <!--
 **L1-0/L1-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
